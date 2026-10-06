@@ -1,0 +1,6 @@
+{
+  "name": "20L Jar Stock Manager",
+  "description": "A stock manager for 20 Liter water jars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
